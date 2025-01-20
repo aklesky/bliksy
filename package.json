@@ -4,7 +4,7 @@
     "license": "MIT",
     "private": true,
     "type": "module",
-    "packageManager": "pnpm@9.14.4",
+    "packageManager": "pnpm@9.15.4",
     "prettier": "./packages/prettier-config/dist/index.js",
     "scripts": {
         "prepare": "husky",

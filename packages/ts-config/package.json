@@ -24,6 +24,6 @@
         "url": "https://github.com/aklesky/node-workspace/issues"
     },
     "dependencies": {
-        "@types/node": "22.10.1"
+        "@types/node": "22.10.10"
     }
 }

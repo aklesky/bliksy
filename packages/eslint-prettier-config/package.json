@@ -26,8 +26,8 @@
         "@aklesky/prettier-config": "workspace:*",
         "@aklesky/eslint-config": "workspace:*",
         "eslint-config-prettier": "9.1.0",
-        "eslint-plugin-prettier": "5.2.1",
-        "typescript-eslint": "8.16.0"
+        "eslint-plugin-prettier": "5.2.3",
+        "typescript-eslint": "8.21.0"
     },
     "devDependencies": {
         "@aklesky/ts-config": "workspace:*",
